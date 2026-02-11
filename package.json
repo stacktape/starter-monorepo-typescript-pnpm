@@ -1,0 +1,17 @@
+{
+  "name": "monorepo-typescript-pnpm",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.160",
+    "@types/node": "^25.2.1",
+    "stacktape": "^3.4.0",
+    "typescript": "^5.9.3"
+  }
+}
